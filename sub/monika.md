@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Monika Pfeiffer
-themeBGimage: https://upload.wikimedia.org/wikipedia/commons/d/de/Passiflora_%27Monika_Fischer%27_2013_183.JPG
+themeBGimage: template.pc-cdn.eu/assets/bg-images/Passiflora_Monika_3888.jpeg
 permalink: /sub/monika/index.html
 ---
 {% include default-website-content.html %}

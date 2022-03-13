@@ -9,8 +9,8 @@ author: Familie Pfeiffer
 since: 2018
 
 # Fonts:
-FFfullscreenly: AoboshiOne #Roboto
-FFcreativeily: RoadRage #Lato
+Font1: Roboto
+Font2: Lato
 
 # hostcredits: GHP (githubpages), IDN (IONOS DeployNow), OHI (Own Server)
 hostcredit: GHP

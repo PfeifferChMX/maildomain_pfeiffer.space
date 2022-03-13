@@ -1,0 +1,50 @@
+---
+layout: null
+---
+/*
+Theme Name: Creativeily Child
+Author: ThemeEverest
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+ body {
+  font-family: '{{ site.Font2 | default: Lato }}', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.5em;
+  -ms-word-wrap: break-word;
+  word-wrap: break-word;
+  padding: 0;
+  background:#f3f3f3;
+  margin: 0;
+  position: relative;
+  color: #777;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+.postinfo, .postinfo * {
+  font-size: 14px;
+  color: #b5b8bf;
+  font-family: '{{ site.Font2 | default: Lato }}', sans-serif;
+}
+
+/* Buttons */
+
+.button, button {
+  font-size: 1em;
+  line-height: 1em;
+  font-family: '{{ site.Font2 | default: Lato }}', sans-serif;
+  text-decoration: none;
+  text-decoration: none;
+  border-radius: 3px;
+  padding: 12px 18px;
+  border: 1px solid;
+  display: inline-block;
+  cursor: pointer;
+  -webkit-transition:all 0.2s ease-in-out;
+  transition:all 0.2s ease-in-out;
+}
